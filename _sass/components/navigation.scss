@@ -1,0 +1,26 @@
+body:before {
+  content: '';
+  height: 2px;
+  background-image: -webkit-gradient(linear, right top, left top, from(#ff6f45), color-stop(#c23d7e), to(#7b3fd5));
+  background-image: -webkit-linear-gradient(right, #ff6f45, #c23d7e, #7b3fd5);
+  background-image: -o-linear-gradient(right, #ff6f45, #c23d7e, #7b3fd5);
+  background-image: linear-gradient(-90deg, #ff6f45, #c23d7e, #7b3fd5);
+  display: block;
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.navigation__items {
+  display: flex;
+
+  a {
+    font-weight: 500;
+  }
+}
+
+.navigation__item {
+  margin-left: $space-medium;
+}

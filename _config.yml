@@ -1,0 +1,49 @@
+title: Elytra.app FAQ
+description: Documentation for Elytra.app.
+url: https://faq.elytra.app
+
+author:
+  name: Nikhil Nigade
+  url: https://dezinezync.com
+
+repo:
+  url: https://github.com/dezinezync/faq.elytra.app
+
+icon: /assets/images/icons/web/preview_300.png
+favicon: /assets/icons/favicon.png
+theme_color: "#f80"
+
+markdown: kramdown
+permalink: /:year/:title/
+sass:
+  style: compressed
+
+defaults:
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ""
+    type: drafts
+  values:
+    layout: post
+
+exclude:
+- CNAME
+- Gemfile
+- Gemfile.lock
+- README.md
+- thanks.md
+
+jekyll-mentions:
+  base_url: https://dezinezync.micro.blog
+
+plugins:
+  - jekyll-mentions
