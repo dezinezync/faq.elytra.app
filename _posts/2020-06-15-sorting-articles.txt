@@ -3,18 +3,18 @@ title: "Sorting Articles"
 date: 2020-06-15
 order: 1
 categories: getting-started
-description: You can sort articles in Newest First or Oldest First order and additionally by All or Unread only. 
+description: You can sort articles in Newest First or Oldest First order and additionally by All or Unread only.
 ---
 
-Elytra has 4 sorting options to choose from, where sorting is done by the published date of the article:  
+Elytra has 4 sorting options to choose from, where sorting is done by the published date of the article:   
 
-1. All - Descending (Newest First, Default)
-2. All - Ascendeing (Oldest First)
-3. Unread - Descending
-4. Unread - Ascending
+1. All - Descending (Newest First, Default)  
+2. All - Ascendeing (Oldest First)  
+3. Unread - Descending  
+4. Unread - Ascending  
 
-For the Unread section of the apps, the 1. and 2. options behave like 3. and 4. 
+For the Unread section of the apps, the 1. and 2. options behave like 3. and 4.   
 
-Your selected option is applied by default the next time you open a feed. 
+Your selected option is applied by default the next time you open a feed.  
 
-When searching, this option is ignored and articles are always listed in Descending Order. 
+When searching, this option is ignored and articles are always listed in Descending Order.   
