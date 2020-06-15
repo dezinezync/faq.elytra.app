@@ -2,9 +2,9 @@
   title: About Elytra
   description: Why Elytra exists and how it is different.
 
-# - id: getting-started
-#   title: Getting Started
-#   description: First steps you can take after you setup Elytra.
+- id: getting-started
+  title: Getting Started
+  description: First steps you can take after you setup Elytra.
 
 # - id: blogs
 #   title: Blogs & Publishers
