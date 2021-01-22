@@ -2,7 +2,7 @@
 title: "Context Menus"
 date: 2020-06-04
 order: 1
-categories: webapp
+categories: webapp,ios,macos
 description: Context Menus and list of items which support context menus in the web app and planned items.
 ---
 
@@ -16,8 +16,6 @@ Similarly, right clicking on a folder will show options respective to that folde
 Currently, the following objects render a Context Menu:
 - Feed
 - Folder
-
-### Planned Context Menus
 - Article
 - Paragraphs
 - Images

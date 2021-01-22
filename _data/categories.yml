@@ -22,6 +22,10 @@
   title: Web App
   description: Tips for using the Web App & UI Quirks 
   
-# - id: ios
-#   title: iOS App
-#   description: Tips for using the iOS App & UI Quirks
+- id: ios
+  title: iOS App
+  description: Tips for using the iOS App & UI Quirks
+  
+- id: macos
+  title: macOS App
+  description: Tips for using the macOS App & UI Quirks  
