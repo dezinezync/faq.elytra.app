@@ -1,8 +1,8 @@
 ---
-title: "Debugging"
+title: "Feed Preferences"
 date: 2021-01-22
 order: 98
-categories: ios,macos
+categories: ios
 description: Feed Preferences show list of preferences specific to that feed including Notifications and Reader Mode. 
 ---
 

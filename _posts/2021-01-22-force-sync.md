@@ -2,7 +2,7 @@
 title: "Force Sync"
 date: 2021-01-22
 order: 1
-categories: ios,macos
+categories: universal 
 description: Force-sync removes all cached data on your device and resyncs with Elytra API Service. 
 ---
 

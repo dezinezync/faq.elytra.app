@@ -5,6 +5,22 @@
 - id: getting-started
   title: Getting Started
   description: First steps you can take after you setup Elytra.
+    
+- id: webapp
+  title: Web App
+  description: Tips for using the Web App & UI Quirks.
+
+- id: ios
+  title: iOS App
+  description: Tips for using the iOS App & UI Quirks.
+
+- id: macos
+  title: macOS App
+  description: Tips for using the macOS App & UI Quirks.
+  
+- id: universal
+  title: Universal
+  description: Tips for using the iOS and macOS App & UI Quirks common across platforms.  
 
 # - id: blogs
 #   title: Blogs & Publishers
@@ -16,16 +32,4 @@
 
 # - id: rss-feeds
 #   title: RSS Feeds 
-#   description: Various topics about RSS Feeds, what they are, where to find them and more.
-
-- id: webapp
-  title: Web App
-  description: Tips for using the Web App & UI Quirks 
-  
-- id: ios
-  title: iOS App
-  description: Tips for using the iOS App & UI Quirks
-  
-- id: macos
-  title: macOS App
-  description: Tips for using the macOS App & UI Quirks  
+#   description: Various topics about RSS Feeds, what they are, where to find them and more. 

@@ -2,7 +2,9 @@
 title: "Bookmarks"
 date: 2021-01-22
 order: 2
-categories: getting-started,ios,macos
+categories: 
+- universal 
+- webapp
 description: Bookmarks can be efficient when saving articles for referencing later, or reading later. 
 ---
 

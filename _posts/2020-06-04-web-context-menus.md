@@ -2,7 +2,10 @@
 title: "Context Menus"
 date: 2020-06-04
 order: 1
-categories: webapp,ios,macos
+categories: 
+- webapp
+- macos
+- universal 
 description: Context Menus and list of items which support context menus in the web app and planned items.
 ---
 
