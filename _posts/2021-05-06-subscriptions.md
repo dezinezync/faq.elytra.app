@@ -5,7 +5,7 @@ order: 4
 categories: about
 ---
 
-### Subscriptions
+## Subscriptions
 
 Elytra offers two subcription tiers: Monthly and Yearly. The *standard pricing*^1 for these in USD are $0.99 and $10.49 respectively. 
 
@@ -17,9 +17,9 @@ Your subscription from the web, iOS or macOS syncs across all platforms and all 
 
 The web version currently only supports regional pricing for India. If you'd like to see regional pricing for your locale, please get in touch with me at [support@elytra.app](support@elytra.app). 
 
-#### Students
+### Students
 
 If you're a student currently enrolled in School, High-School or Graduate education programs, I'm happy to extend a discount coupon to you. This is limited to the web interface at the moment. 
 
-#### Footnotes 
+### Footnotes 
 1. Pricing is sometimes adjusted based on regions or to account for taxation changes by Apple or me directly. 
